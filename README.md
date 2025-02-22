@@ -50,7 +50,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/yourusername/AmazonAffiliateToys.git
+git clone [https://github.com/yourusername/AmazonAffiliateToys.git](https://github.com/Ruchilavichare/ToyGallaryAPI)
 cd AmazonAffiliateToys
 Restore NuGet packages:
 
